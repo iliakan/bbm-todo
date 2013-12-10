@@ -23,10 +23,66 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="7" selection-start="458" selection-end="458" vertical-scroll-proportion="0.40923077" vertical-offset="0" max-vertical-offset="1444">
+            <state line="25" column="35" selection-start="480" selection-end="508" vertical-scroll-proportion="-12.214286" vertical-offset="133" max-vertical-offset="1292">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="todoList.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/view/todoList.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="27" selection-start="159" selection-end="177" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="304">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="todos.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/todos.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="31" selection-start="532" selection-end="532" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
+              <folding>
+                <marker date="1386444641000" expanded="true" signature="226:375" placeholder="[...]" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/view/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="55" column="15" selection-start="1360" selection-end="1360" vertical-scroll-proportion="0.61651915" vertical-offset="627" max-vertical-offset="1482">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="todo.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/view/todo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="72" column="6" selection-start="1728" selection-end="1831" vertical-scroll-proportion="0.0" vertical-offset="861" max-vertical-offset="1539">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="todo.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/model/todo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="0" selection-start="27" selection-end="412" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="532">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="todoList.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/model/todoList.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="25" selection-start="976" selection-end="976" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="741">
               <folding />
             </state>
           </provider>
@@ -42,13 +98,24 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/public/bower_components/backbone.marionette/src/marionette.collectionview.js" />
+        <option value="$PROJECT_DIR$/public/bower_components/backbone/backbone.js" />
+        <option value="$PROJECT_DIR$/public/todos.css" />
+        <option value="$PROJECT_DIR$/public/view/app.js" />
+        <option value="$PROJECT_DIR$/public/view/todo.js" />
+        <option value="$PROJECT_DIR$/public/todos.js" />
+        <option value="$PROJECT_DIR$/public/bower_components/backbone.marionette/lib/backbone.marionette.js" />
+        <option value="$PROJECT_DIR$/public/model/todo.js" />
+        <option value="$PROJECT_DIR$/public/model/todoList.js" />
+        <option value="$PROJECT_DIR$/public/view/todoList.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="4" />
     <option name="y" value="22" />
-    <option name="width" value="1280" />
+    <option name="width" value="1276" />
     <option name="height" value="778" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -77,6 +144,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -123,7 +191,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
+              <option name="myItemId" value="view" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -141,24 +209,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
+              <option name="myItemId" value="model" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="FullScreen" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
@@ -191,26 +260,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="778" extended-state="6" />
+    <frame x="4" y="22" width="1276" height="778" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2492163" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -222,12 +291,97 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/bower_components/backbone.marionette/src/marionette.collectionview.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="224" column="9" selection-start="6764" selection-end="6764" vertical-scroll-proportion="0.0" vertical-offset="4256" max-vertical-offset="5928" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/bower_components/backbone.marionette/lib/backbone.marionette.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1711" column="12" selection-start="48363" selection-end="48363" vertical-scroll-proportion="0.0" vertical-offset="32509" max-vertical-offset="46987">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/bower_components/backbone.marionette/src/marionette.collectionview.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="224" column="9" selection-start="6764" selection-end="6764" vertical-scroll-proportion="0.0" vertical-offset="4256" max-vertical-offset="5928" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/bower_components/backbone/backbone.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="657" column="33" selection-start="24321" selection-end="24321" vertical-scroll-proportion="5.859542" vertical-offset="8645" max-vertical-offset="30248" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/bower_components/backbone.localstorage/spec/support/backbone.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="447" column="4" selection-start="16362" selection-end="16362" vertical-scroll-proportion="-0.062305298" vertical-offset="8533" max-vertical-offset="29944" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/todos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="129" column="10" selection-start="2328" selection-end="2328" vertical-scroll-proportion="0.38778627" vertical-offset="2197" max-vertical-offset="4123" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/todos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="31" selection-start="532" selection-end="532" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
+          <folding>
+            <marker date="1386444641000" expanded="true" signature="226:375" placeholder="[...]" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/bower_components/backbone.marionette/lib/backbone.marionette.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1711" column="0" selection-start="48351" selection-end="48351" vertical-scroll-proportion="0.33227345" vertical-offset="32262" max-vertical-offset="46949">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/model/todo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="27" selection-end="412" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="532">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/view/todo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="6" selection-start="1728" selection-end="1831" vertical-scroll-proportion="0.0" vertical-offset="861" max-vertical-offset="1539">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/view/todoList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="27" selection-start="159" selection-end="177" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="304">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="7" selection-start="458" selection-end="458" vertical-scroll-proportion="0.40923077" vertical-offset="0" max-vertical-offset="1444">
+        <state line="25" column="35" selection-start="480" selection-end="508" vertical-scroll-proportion="-12.214286" vertical-offset="133" max-vertical-offset="1292">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/model/todoList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="25" selection-start="976" selection-end="976" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="741">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/view/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="15" selection-start="1360" selection-end="1360" vertical-scroll-proportion="0.61651915" vertical-offset="627" max-vertical-offset="1482">
           <folding />
         </state>
       </provider>
